@@ -17,10 +17,10 @@ This PowerShell script helps administrators quickly remove phishing emails from 
 .\cleanup-phishing.ps1
 ```
 
-Follow the prompts
-Requirements
-On-premises Exchange (2010 / 2016 / 2019)
-Administrator privileges
+- Follow the prompts
+- Requirements
+- On-premises Exchange (2010 / 2016 / 2019)
+- Administrator privileges
 
 Full Guide
 For a detailed step-by-step explanation, see the full article:
