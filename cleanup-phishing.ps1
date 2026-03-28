@@ -4,8 +4,9 @@
 
 # Inline spam sender list
 $senders = @(
-    "dpoliakov4545@gmail.com",
-    "servent.of.inos4545@gmail.com"
+    "somespam@gmail.com",
+    "anotherspam@gmail.com",
+    "yetanotherspam@gmail.com"
 )
 
 # Generate timestamped log file name
