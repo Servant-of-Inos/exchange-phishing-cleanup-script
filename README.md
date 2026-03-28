@@ -22,7 +22,7 @@ This PowerShell script helps administrators quickly remove phishing emails from 
 - On-premises Exchange (2010 / 2016 / 2019)
 - Administrator privileges
 
-Full Guide
+Full Guide  
 For a detailed step-by-step explanation, see the full article:
 
 👉 https://www.hiddenobelisk.com/mass-phishing-cleanup-script-for-on-premises-exchange-2010-2016-2019/
